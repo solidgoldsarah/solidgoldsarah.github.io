@@ -29,59 +29,58 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "whats up b?."
   ],
-  "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+  "~*x what ~*y": [
+    "beeeep beep",
+    "this makes me uncomf",
+    "zoom zoom.",
+    "are you asking me to prom? I don't understand.",
+    "my son is in the movie cars",
+    "do you wanna dance under the moonlight?",
+    "yeah b?",
   ],
-  "~*x name ~*y": [
-    "I am not interested in names",
+  "~*x is ~*y": [
+    "no way b",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "is it too late now to say sorry?",
+    "beans",
+    "no bean!",
   ],
-  "~*x I remember ~*y": [
-    "Do you often think of ~y?",
-    "Does thinking of ~y bring anything else to mind?",
-    "What else do you remember?",
-    "Why do you recall ~y right now?",
-    "What in the present situation reminds you of ~y?",
-    "What is the connection between me and ~y?",
+  "~*x me ~*y": [
+    "bean bean bean bean bean",
+    "zoooom zoom",
+    "eeeeeeek",
+    "me me me it's all about me!",
+    "bean????",
+    "beans 4ever",
   ],
-  "~*x do you remember ~*y": [
-    "Did you think I would forget ~y?",
-    "Why do you think I should recall ~y now?",
-    "What about ~y?",
-    "You mentioned ~y",
+  "~*x cool ~*y": [
+    "ooooo weee!",
+    "that is crazy pants",
+    "zoooomy zoom zoom",
+    "zip zop",
   ],
   "~*x I want ~*y": [
-    "What would it mean if you got ~y?",
-    "Why do you want ~y?",
-    "Suppose you got ~y soon.",
+    "pants?",
+    "denim?",
+    "I'm looking for denim",
   ],
     "~*x I need ~*y": [
-    "What would it mean if you got ~y?",
-    "Why do you need ~y?",
-    "Suppose you got ~y soon.",
+    "zip zop me too",
+    "me too!!!!!?",
+    "crazy stuff",
   ],
   "~*x if ~*y": [
-    "Do you really think it's likely that ~y?",
-    "Do you wish that ~y?",
-    "What do you think about ~y?",
-    "Really--if ~y?",
+    "do you think it's gonna happen?",
+    "good stuff",
+    "nice!",
+    "oh true",
   ],
   "~*x I dreamt ~*y": [
-    "Really-- ~y",
-    "Have you ever fantasized ~y while you were awake",
-    "Have you dreamt of ~y before?",
+    "are you a dreamer?",
+    "zooop",
   ],
   "~*x I dream about ~*y": [
     "How do you feel about ~y in reality?",
