@@ -1,7 +1,7 @@
 body {
     background-color: rgb(100, 49, 63);
     color: orange;
-    font-size: 150%;
+    font-size: 170%;
     line-height: 1.4;
 }
 
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: rgb(215, 206, 199);
+    background-color: rgb(45, 201, 199);
     color:  rgb(215, 206, 199);
 }
 
